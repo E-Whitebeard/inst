@@ -29,11 +29,14 @@ Adaptador de LAN inal mbrica Wi-Fi:
 
    Sufijo DNS espec¡fico para la conexi¢n. . : 
    V¡nculo: direcci¢n IPv6 local. . . : fe80::84a5:874:be6f:1580%10
-   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.7.102
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.16
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
-   Puerta de enlace predeterminada . . . . . : 192.168.7.1
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
 
 Adaptador de LAN inal mbrica Wi-Fi 2:
 
-   Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::f0b4:f273:824b:9735%24
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.7.106
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.7.1
